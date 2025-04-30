@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "bootstrap": "^4.2.1",
-    "cache-loader": "^2.0.1",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.5",
+    "cache-loader": "^1.2.5",
     "jquery": "^3.3.1",
     "octicons-vue": "^0.17.12",
     "popper.js": "^1.14.7",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.3.0",
-    "@vue/cli-plugin-eslint": "^3.3.0",
+    "@vue/cli-plugin-eslint": "^3.12.1",
     "@vue/cli-service": "^3.3.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.0.1",
